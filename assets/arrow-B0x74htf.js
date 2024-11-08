@@ -1,0 +1,1 @@
+import{j as t}from"./index-DK2opCe_.js";const s=i=>t.jsxs("svg",{width:i.size,height:i.size,viewBox:"0 0 93 44",fill:"#D9D9D9",xmlns:"http://www.w3.org/2000/svg","aria-label":"Arrow icon",children:[t.jsx("rect",{x:"44",y:"11",width:"49",height:"21"}),t.jsx("path",{d:"M0 20.5L50 0V43.5L0 20.5Z"})]});export{s as A};
