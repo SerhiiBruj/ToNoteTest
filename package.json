@@ -4,12 +4,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d dist"
   },
-  "author": "",
+  "author": "Koval Serhii",
   "license": "ISC",
-  "description": "",
+  "description": "Git repository for test deployment of webapp (non commercial studing project)",
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
