@@ -2,6 +2,15 @@
 .scroll div{
     height: 100%;
 }
-.scroll div .desktopWithFiles{
-    height: 100%;
+
+.addFile {
+    overflow: hidden;
+}
+@media screen and (max-width:500){
+    .scroll div .desktopWithFiles{
+        height: 100%;
+    }
+    .addFile {
+        overflow:visible;
+    }
 }
