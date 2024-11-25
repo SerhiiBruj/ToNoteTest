@@ -7,8 +7,8 @@
   "theme_color": "rgb(124, 124, 124)",
   "icons": [
     {
-      "src": "./src/assetModules/svgs/spiral.svg",
-      "type": "image/svg+xml"
+      "src": "./assets/logoPNG-BweJJjsy.png",
+      "type": "image/png"
     }
   ]
 }
